@@ -12,6 +12,7 @@ f66f
 asfasfas
 
 ahjkakda
++mew code dasd
 define( 'WP_INSTALLING', true );
 
 /** Sets up the WordPress Environment. */
